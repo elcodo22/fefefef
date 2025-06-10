@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>FELICIDADES ANA ROMANIP</title>
+  <style>
+    body {
+      background-color: #ffccff;
+      text-align: center;
+      font-family: Comic Sans MS, cursive, sans-serif;
+      color: hotpink;
+      font-size: 3em;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      margin-top: 30px;
+      text-shadow: 2px 2px yellow;
+    }
+    .gifs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    img {
+      margin: 10px;
+      max-width: 30%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎉 FELICIDADES ANA ROMANIP 🎉</h1>
+  <div class="gifs">
+    <img src="https://media.giphy.com/media/3orieYzP9Y4tP2MjYw/giphy.gif" alt="gif1">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="gif2">
+    <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="gif3">
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="gif4">
+    <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" alt="gif5">
+    <img src="https://media.giphy.com/media/26gsspf0C4rjI1aDC/giphy.gif" alt="gif6">
+  </div>
+</body>
+</html>
